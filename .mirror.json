@@ -1,5 +1,14 @@
 {
- "assets": {},
+ "assets": {
+  "Chipboard001": "9181180cf1685a00a73ff4a7df8e904e9a00732e",
+  "Chipboard002": "8e926cb794aad6de57d7be7459ebdfe447a62f7a",
+  "Chipboard003": "3fe89e689508c807b395e721e794d89649ff64d8",
+  "Chipboard004": "23c5b3ed624b0877c0f0e0cce32f2256fa32ba56",
+  "Chipboard005": "01ff5ea5a141eb95471a9201784bb7ef9ca403ac",
+  "Chipboard006": "296629a82c09fe2eabbb8843f7345c54cc7c9d02",
+  "Chipboard007": "cb726cf6f6d32434342321e20b1165c257131d23",
+  "Chipboard008": "758ecaedc3125b2d182185d5f1fdd6412aae43d7"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
